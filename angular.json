@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "facturasApp"
+  "cli": {
+    "analytics": false
+  }
 }
